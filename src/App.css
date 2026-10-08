@@ -1,0 +1,15 @@
+.kg-item{
+ 
+  font-weight: 500;
+  color:rgb(255, 85, 0);
+}
+
+.food-heading{
+
+  color:rgb(235, 93, 93);
+  text-align: center;
+}
+
+button{
+  float: right;
+}
